@@ -1,3 +1,3 @@
-import { algorithm } from "./ejercicio-2";
+import { algorithm } from "./ejercicio-3";
 
 algorithm();
